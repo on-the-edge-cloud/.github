@@ -1,6 +1,6 @@
 <p align="center">
 
-![image](/images/logo.svg)
+![image](/profile/images/logo.svg)
 
 </p>
 
