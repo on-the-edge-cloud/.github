@@ -1,6 +1,10 @@
 <p align="center">
 
-![image](/profile/images/logo.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/profile/images/logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/profile/images/logo.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="/profile/images/logo.png">
+</picture>
 
 </p>
 
